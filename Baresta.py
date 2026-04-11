@@ -5,3 +5,4 @@ menu = "This is the menu \n  1. Capicinoo\n  2. Expresso\n  3. Amerecanoo\n"
 print ( menu )
 choice = input ( "lemme know what you want \n")
 print ("A " ,choice, " comming up in 5 mins .")
+#complete it later
